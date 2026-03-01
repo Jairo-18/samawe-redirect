@@ -11,5 +11,3 @@ package.json
 package-lock.json
 tsconfig.json
 tsconfig.app.json
-Dockerfile
-nginx.conf
