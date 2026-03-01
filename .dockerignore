@@ -7,7 +7,5 @@ dist/
 .prettierrc
 README.md
 angular.json
-package.json
-package-lock.json
 tsconfig.json
 tsconfig.app.json
